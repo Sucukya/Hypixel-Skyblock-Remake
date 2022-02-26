@@ -1,0 +1,11 @@
+name: HPSBR-Crafting
+version: 0.1
+author: Sucukya
+main: me.sucukya.Crafting
+api-version: 1.13
+depend:
+  - HPSBR-Base
+commands:
+  test:
+    description: Test command
+    usage: /test

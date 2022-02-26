@@ -1,0 +1,15 @@
+name: HPSBR-Pets
+version: 0.1
+author: Sucukya
+main: me.sucukya.Pets
+api-version: 1.13
+commands:
+  test:
+    description: test
+    usage: /test username
+  pets:
+    description: Opens the pets menu
+    usage: /pets
+  givepet:
+    description: Gives you the specified pet!
+    usage: /givepet <type> <rarity> <level>

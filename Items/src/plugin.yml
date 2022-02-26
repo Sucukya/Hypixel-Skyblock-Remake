@@ -1,0 +1,8 @@
+name: HPSBR-Items
+version: 0.1
+api-version: 1.13
+author: Sucukya
+main: me.sucukya.Items
+depend:
+  - HPSBR-Base
+commands:

@@ -1,0 +1,5 @@
+name: HPSBR-Accessory
+version: 0.1
+author: Sucukya
+main: me.sucukya.Accessory
+api-version: 1.13

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Accessory/Accessory.iml" filepath="$PROJECT_DIR$/Accessory/Accessory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Base/Base.iml" filepath="$PROJECT_DIR$/Base/Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crafting/Crafting.iml" filepath="$PROJECT_DIR$/Crafting/Crafting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HPSBR-Recode.iml" filepath="$PROJECT_DIR$/HPSBR-Recode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Islands/Islands.iml" filepath="$PROJECT_DIR$/Islands/Islands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Items/Items.iml" filepath="$PROJECT_DIR$/Items/Items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NPC/NPC.iml" filepath="$PROJECT_DIR$/NPC/NPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pets/Pets.iml" filepath="$PROJECT_DIR$/Pets/Pets.iml" />
+    </modules>
+  </component>
+</project>

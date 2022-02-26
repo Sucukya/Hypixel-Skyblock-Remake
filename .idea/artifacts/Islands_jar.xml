@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Islands:jar">
+    <output-path>$PROJECT_DIR$/TestServer/plugins</output-path>
+    <root id="archive" name="Islands.jar">
+      <element id="module-output" name="Islands" />
+    </root>
+  </artifact>
+</component>
